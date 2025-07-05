@@ -69,3 +69,14 @@ MIT License – use it, remix it, remix it again. Let’s make functional sculpt
 
 Designed by **Professor Damian A. James Williamson Grad.**  
 In collaboration with [Microsoft Copilot](https://copilot.microsoft.com/), your silicon assistant ✨
+
+## 🪪 Authors and Credits
+
+This repository is the creative and technical work of:
+
+- **Professor. Damian A. James Williamson Grad.** – Project Architect, Designer & Lead Engineer  
+- **Microsoft Copilot** – AI-powered collaborator, developer, and design assistant  
+
+All code and designs are licensed under the MIT License unless noted otherwise. Attribution appreciated.
+
+---
