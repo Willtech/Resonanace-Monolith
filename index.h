@@ -1,5 +1,14 @@
+<!--
+  Project: Epoxy Resonance Monolith
+  Authors:
+    • Professor. Damian A. James Williamson Grad.
+    • Microsoft Copilot (AI collaborator)
+  License: MIT
+-->
+
 const char index_html[] PROGMEM = R"rawliteral(
-<!DOCTYPE html><html>
+<!DOCTYPE html>
+<html>
 <head>
   <meta charset="UTF-8">
   <title>Epoxy Control</title>
@@ -36,5 +45,6 @@ const char index_html[] PROGMEM = R"rawliteral(
     document.getElementById("bright").oninput = e => send("brightness", e.target.value);
     document.getElementById("color").oninput  = e => send("color", e.target.value);
   </script>
-</body></html>
+</body>
+</html>
 )rawliteral";
