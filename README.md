@@ -2,6 +2,8 @@
 
 A sculptural fusion of art, acoustics, and embedded design—**The Epoxy Resonance Monolith** is a 16" tall clear epoxy cube housing dual Bluetooth speaker spheres, a quad-helix aesthetic coil core, ambient LED effects, and wireless power. All controlled by an ESP32 with a sleek web-based interface.
 
+---
+
 ## 🧠 Features
 
 - 🎵 **Dual Bluetooth Audio Speakers** with full stereo resonance  
@@ -13,6 +15,8 @@ A sculptural fusion of art, acoustics, and embedded design—**The Epoxy Resonan
 - 📡 **ESP32 Controller** running Wi-Fi + WebSocket UI  
 - 💾 **EEPROM State Saving** for last-used settings  
 - 🎙️ **Music-Reactive Lighting** via MSGEQ7 or analog mic input
+
+---
 
 ## 🛠️ Hardware Components
 
@@ -27,13 +31,23 @@ A sculptural fusion of art, acoustics, and embedded design—**The Epoxy Resonan
 | Clear Epoxy Resin            | One-piece monolith casting           |
 | Power Management Circuit     | Voltage regulation + protection      |
 
+---
+
 ## 🌐 Control Interface
 
 - Access the Monolith via web browser on local Wi-Fi
 - Adjust lighting presets, brightness, and color in real time
 - See wireless charging status and reactive light behavior
 
-![Web UI Screenshot](docs/ui-mockup.png) <!-- Replace with real screenshot later -->
+---
+
+## 📄 Documentation
+
+- 📐 [Wiring Overview](docs/wiring-overview.md)  
+- 🧠 [Firmware Architecture](docs/firmware-architecture.md)  
+- 🧱 [Casting and Assembly Guide](docs/casting-and-assembly.md)
+
+---
 
 ## 💻 Installation
 
@@ -46,6 +60,8 @@ A sculptural fusion of art, acoustics, and embedded design—**The Epoxy Resonan
 3. Add your Wi-Fi credentials to `config.h`
 4. Upload to ESP32 and power up
 
+---
+
 ## 🧪 Optional Expansions
 
 - 🔊 Add I²S microphone or advanced DSP logic  
@@ -53,22 +69,7 @@ A sculptural fusion of art, acoustics, and embedded design—**The Epoxy Resonan
 - 💡 Capacitive touch or motion-activated lighting  
 - 🔋 Split battery charging and UPS fallback system  
 
-## 🤝 Contributions & Ideas
-
-This repository welcomes pull requests and expansions—whether it's smarter LED effects, enclosure improvements, or even poetic UI overlays. Open issues for ideas, hardware compatibility, or media!
-
 ---
-
-## 📜 License
-
-MIT License – use it, remix it, remix it again. Let’s make functional sculpture future-forward.
-
----
-
-## 🙌 Creator
-
-Designed by **Professor Damian A. James Williamson Grad.**  
-In collaboration with [Microsoft Copilot](https://copilot.microsoft.com/), your silicon assistant ✨
 
 ## 🪪 Authors and Credits
 
