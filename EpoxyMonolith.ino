@@ -1,3 +1,11 @@
+// ----------------------------------------------------------------------------
+// Project: Epoxy Resonance Monolith
+// Authors:
+//   • Professor. Damian A. James Williamson Grad.
+//   • Microsoft Copilot (AI collaborator)
+// License: MIT
+// ----------------------------------------------------------------------------
+
 #include <WiFi.h>
 #include <EEPROM.h>
 #include <WebSocketsServer.h>
