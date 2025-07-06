@@ -2,6 +2,8 @@
 
 A sculptural fusion of art, acoustics, and embedded design—**The Epoxy Resonance Monolith** is a 16" tall clear epoxy cube housing dual Bluetooth speaker spheres, a quad-helix aesthetic coil core, ambient LED effects, and wireless power. All controlled by an ESP32 with a sleek web-based interface.
 
+![Epoxy Resonance Monolith](docs/Copilot_20250706_083726.png)
+![Design Epoxy Resonance Monolith](docs/copilot_image_1751758610562.jpeg)
 ---
 
 ## 🧠 Features
