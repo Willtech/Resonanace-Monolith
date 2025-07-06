@@ -33,7 +33,7 @@ Main Loop:
        → Sample audio
        → Animate lighting pattern
 ```
-
+![Firmware Flow Diagram](image_1751823311335.jpeg)
 ---
 
 ## 🎛️ Preset Modes
