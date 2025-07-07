@@ -87,6 +87,29 @@ tags: [AI Ethics, Responsible Design, Creative Technology, Open Source]
 
 ---
 
+## Appendix A: Interoperability with Ethical Frameworks
+
+Ethical design does not exist itself in isolation. While the Rulebook of Responsible AI-Assisted Design articulates a principled stance on transparency, responsibility, and contextual traceability, it is strengthened through alignment with other leading frameworks in the global landscape. This appendix serves as a cross-reference guide—mapping where this Rulebook resonates with or extends existing principles.
+
+| Principle                             | This Rulebook                                                                                           | Comparative Frameworks                                                                                   |
+|------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Human Agency & Oversight             | AI is a participant, never a decision-maker. Human designers retain right of refusal and iterative control. | EU AI Act, Microsoft RAI, IEEE Ethically Aligned Design             |
+| Transparency & Explainability        | Full lineage of design decisions is required; AI outputs must be auditable and framed with rationale.       | Microsoft RAI, Australia's AI Ethics Principles, OECD AI Principles                                           |
+| Attribution & Co-authorship          | All contributions—human and AI—must be credited. Co-authorship with AI is acknowledged.                     | UNESCO AI Ethics Recommendation, Creative Commons discussions                                                 |
+| Societal Benefit & Non-Maleficence   | Design must serve the public good and avoid silent substitutions or deceptive generation.                   | "Do No Harm" Principle, Asimov’s Three Laws (as foundational metaphor), Aotearoa AI Charter                   |
+| Sustainability & Maintenance         | Emphasizes long-term durability, repairability, and serviceability over disposability or untraceable code. | ISO 20400 (Sustainable Procurement), ISO 26262 (Functional Safety), Open Hardware Sustainability Guidelines  |
+| Contextual Integrity & Jurisdiction  | Design must comply with legal and regulatory constraints across domains and geographies.                    | Australia’s AI Ethics Principles, IEEE P7000, regional safety and legal standards (e.g. IEC, ISO)             |
+
+---
+
+🧭 Intent of This Appendix
+
+Rather than replicating existing ethical codes, this Rulebook serves as an interoperable scaffolding: a way to embed global principles into AI-assisted creative practice that is modular, builder-ready, and context-aware.
+
+As new guidance emerges (e.g. WIPO, AI safety labs), future appendices may expand this comparison.
+
+---
+
 ## 📄 Licensing & Remixing
 This Rulebook is released under the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).  
 You are free to:
