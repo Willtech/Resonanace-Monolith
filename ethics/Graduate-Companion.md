@@ -92,7 +92,8 @@ This appendix invites deeper academic analysis of how ethical principles are sha
 Designers should remain agile, interdisciplinary, and critically engaged—as both builders and interpreters of ethical infrastructure.
 
 > "_Ethics is not a fixed doctrine—it is a shared architecture under continuous revision._"
->Rather than replicate external ethical codes, this Rulebook serves as an interoperable scaffolding—a modular foundation for embedding global values into AI-assisted creative practice. Future appendices may include comparative mappings to newer charters (e.g. WIPO, frontier AI safety labs).
+
+Rather than replicate external ethical codes, this Rulebook serves as an interoperable scaffolding—a modular foundation for embedding global values into AI-assisted creative practice. Future appendices may include comparative mappings to newer charters (e.g. WIPO, frontier AI safety labs).
 
 ---
 
