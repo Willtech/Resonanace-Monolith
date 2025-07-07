@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="./ethics/Responsible-AI-Rulebook.md">
+    <img alt="Responsible AI Rulebook" src="https://img.shields.io/badge/AI%20Ethics-Rulebook-blueviolet?style=for-the-badge&logo=github">
+  </a>
+</p>
 # Epoxy Resonance Monolith 🔊✨
 
 A sculptural fusion of art, acoustics, and embedded design—**The Epoxy Resonance Monolith** is a 16" tall clear epoxy cube housing dual Bluetooth speaker spheres, a quad-helix aesthetic coil core, ambient LED effects, and wireless power. All controlled by an ESP32 with a sleek web-based interface.
