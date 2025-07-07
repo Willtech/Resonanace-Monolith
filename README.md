@@ -1,14 +1,23 @@
-<p style="text-align:left; margin-top:0; margin-bottom:0;">
+<p style="text-align: left; margin-top: 0; margin-bottom: 0;">
   <a href="./ethics/Responsible-AI-Rulebook.md">
-    <img alt="Responsible AI Rulebook" src="https://img.shields.io/badge/AI%20Ethics-Rulebook-blueviolet?style=flat-square&logo=github" height="20">
-  </a><a href="./ethics/Graduate-Companion.md">
-    <img alt="Graduate Companion" src="https://img.shields.io/badge/AI%20Ethics-Graduate%20Companion-blue?style=flat-square&logo=github" height="20">
-  </a><br>
+    <img
+      alt="Responsible AI Rulebook"
+      src="https://img.shields.io/badge/AI%20Ethics-Rulebook-blueviolet?style=flat-square&logo=github"
+      height="20">
+  </a>
+  <a href="./ethics/Graduate-Companion.md">
+    <img
+      alt="Graduate Companion"
+      src="https://img.shields.io/badge/AI%20Ethics-Graduate%20Companion-steelblue?style=flat-square&logo=github"
+      height="20">
+  </a>
+  <br>
   <small>
     <a href="https://github.com/Willtech/Resonance-Monolith/blob/master/ethics/Responsible-AI-Rulebook.md">
       The Rulebook of Responsible AI-Assisted Design
     </a>
-  </small><br>
+  </small>
+  <br>
   <small>
     <a href="https://github.com/Willtech/Resonance-Monolith/blob/master/ethics/Graduate-Companion.md">
       Graduate Companion Edition — Responsible AI Rulebook
