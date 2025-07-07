@@ -69,6 +69,33 @@ This edition emphasizes conceptual clarity for advanced study in design philosop
 
 ---
 
+## Appendix A: Contextual Interoperability of Ethical Frameworks
+
+This Rulebook does **not exist itself in isolation**, but in dialogue with a growing constellation of global AI ethics principles. Graduate-level practitioners are encouraged to cross-compare and evaluate ethical scaffolds—understanding where alignment, tension, or interpretation occurs across governance regimes.
+
+### Comparative Matrix
+
+| **Ethical Vector**                     | **This Rulebook Emphasis**                                              | **Framework Intersections**                                                                             |
+|----------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| **Human-Centric Authority**            | Human judgment prevails; AI participation is advisory                    | Microsoft RAI, IEEE EAD, AI Now Institute                                                               |
+| **Attribution of Creative Agency**     | Co-authorship and AI collaboration are disclosed and attributed          | Creative Commons AI Attribution Framework, WIPO AI Governance Initiatives                               |
+| **Explainability & Traceability**      | All outputs must carry rational design lineage and auditability          | ISO/IEC 22989, OECD AI Principles                                                                       |
+| **Global & Local Ethics Integration**  | Jurisdictional awareness and standards adherence are core requirements   | Australia’s AI Ethics Principles, African Union Data Policy Frameworks, IEEE P2863                      |
+| **Sustainability and Lifecycle Duty**  | Longevity, repairability, and traceable supply systems are prioritized   | ISO 20400, Circular Design Principles, Open Source Hardware Association Standards                       |
+
+---
+
+### 🧭  Graduate Reflection
+
+This appendix invites deeper academic analysis of how ethical principles are shaped not just by **technological capability**, but by **cultural, geopolitical, and historical narratives**.
+
+Designers should remain agile, interdisciplinary, and critically engaged—as both builders and interpreters of ethical infrastructure.
+
+> "_Ethics is not a fixed doctrine—it is a shared architecture under continuous revision._"
+>Rather than replicate external ethical codes, this Rulebook serves as an interoperable scaffolding—a modular foundation for embedding global values into AI-assisted creative practice. Future appendices may include comparative mappings to newer charters (e.g. WIPO, frontier AI safety labs).
+
+---
+
 ## 📄 Licensing & Remixing
 This Graduate Companion is released under the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).  
 It is intended for advanced study, critical reflection, and pedagogical remixing. You are encouraged to:
