@@ -69,7 +69,7 @@ tags: [AI Ethics, Responsible Design, Creative Technology, Open Source]
       - Allow controlled re-manufacture of archived or frozen designs
       - Avoid silent substitutions
 - **Governance Resides with the Makers**
-  - Certified makers hold legal and professional accountability for compliance assurance.
+  - Certified makers hold Legal and professional accountability for compliance assurance.
 - **Improvements Are Not Always Mandated**
   - Optional improvements may be offered, but the **same-part use** is viable when compliant and safe.
 - **Design evolution** should be intentional and traceable, not default.
@@ -88,11 +88,11 @@ tags: [AI Ethics, Responsible Design, Creative Technology, Open Source]
 ## 10. Legal Foundations of Ethical AI
 ### From “Do No Harm” to Asimov’s Laws
 
-This Rulebook outlines ethical principles and practical protocols for designing and deploying artificial intelligence within the the A.I. ecology and related systems. It emphasizes transparency, attribution, legal accountability, and the shared duty to "Do No Harm."
+This Rulebook outlines ethical principles and practical protocols for designing and deploying artificial intelligence within the the A.I. ecology and related systems. It emphasizes transparency, attribution, Legal accountability, and the shared duty to "Do No Harm."
 
 **Legal Foundations of Ethical AI: From “Do No Harm” to Asimov’s Laws**
 
-> “It should be necessary to make detailed study why ‘Do No Harm’ and Asimov's Three Laws of Robotics are necessary legal frameworks—and the consequences of failure.”  
+> “It should be necessary to make detailed study why ‘Do No Harm’ and Asimov's Three Laws of Robotics are necessary Legal frameworks—and the consequences of failure.”  
 > — Professor Damian A. James Williamson Grad.
 
 This section explores two foundational ethical constructs:
