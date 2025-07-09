@@ -93,7 +93,7 @@ Exploration Guide:
 
 - IEEE Standards for Ethically Aligned Design  
 - UN Recommendations on Autonomous Systems and Human Rights  
-- Epoxy Resonance Monolith Ethics Archive
+- [Epoxy Resonance Monolith Ethics Archive](https://github.com/Willtech/Resonance-Monolith/tree/master/ethics)
 
 ### Builder's Code Reminder
 
