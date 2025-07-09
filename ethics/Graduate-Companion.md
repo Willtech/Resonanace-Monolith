@@ -26,7 +26,7 @@ This edition emphasizes conceptual clarity for advanced study in design philosop
   - **Electrical safety** (IEC 60335)
   - **Ergonomics** (ISO 9241)
   - **Connectivity** (USB-C, plug/socket compliance)
-  - **All applicable legal/regulatory frameworks**, curated by jurisdictional libraries.
+  - **All applicable Legal/regulatory frameworks**, curated by jurisdictional libraries.
 
 ## 3. Participatory Responsibility
 - Systems must recognize roles:
