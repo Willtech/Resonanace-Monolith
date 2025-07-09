@@ -67,6 +67,39 @@ This edition emphasizes conceptual clarity for advanced study in design philosop
 - Rejection is part of refinement.
 - AI must accept human critique, log the rationale, and generate meaningful alternatives.
 
+## 10. Legal Foundations of Ethical AI
+
+### Ethics & Governance Module
+
+Reflective Prompt
+
+> “It should be necessary to make detailed study why ‘Do No Harm’ and Asimov's Three Laws of Robotics are necessary legal frameworks—and the consequences of failure.”  
+> — Professor Damian A. James Williamson Grad.
+
+Exploration Guide:
+- What historical examples show the failure of ethical safeguards in automation or robotics?
+- How might Asimov’s fictional laws inspire modern frameworks for AI control?
+- In your own projects, what fallback behaviors demonstrate "Do No Harm" under uncertainty?
+- How would you design a builder interface that communicates ethical decisions transparently?
+
+### Suggested Research Directions
+
+- Legal precedents in AI regulation  
+- Ethics in embedded firmware design  
+- Autonomous decision-making and moral delegation  
+- Attribution in modular open-source ecosystems
+
+### Further Reading
+
+- IEEE Standards for Ethically Aligned Design  
+- UN Recommendations on Autonomous Systems and Human Rights  
+- Epoxy Resonance Monolith Ethics Archive
+
+### Builder's Code Reminder
+
+Each ethical rule must be treated not as a label—but as a logic branch.  
+The act of building carries a ripple effect. Honor it accordingly.
+
 ---
 
 ## Appendix A: Contextual Interoperability of Ethical Frameworks
